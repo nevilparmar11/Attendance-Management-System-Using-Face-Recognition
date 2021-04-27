@@ -9,7 +9,7 @@ This project aims to automate the traditional attendance system where the attend
 Facial recognition is becoming more prominent in our society. It has made major progress in the field of security. It is a very effective tool that can help low enforcers to recognize criminals and software companies are leveraging the technology to help users access the technology. This technology can be further developed to be used in other avenues such as ATMs, accessing confidential files, or other sensitive materials.
 This project servers as a foundation for future projects based on facial detection and recognition. This project also convers web development and database management with a user-friendly UI. Using this system any corporate offices, school and organization can replace their traditional way of maintaining attendance of the employees and can also generate their availability(presence) report throughout the month.
 
-**We have 2 types of users of the system.**
+**The system mainly works around 2 types of users**
 1. Employee
 2. Admin
 
