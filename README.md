@@ -28,16 +28,16 @@ This project servers as a foundation for future projects based on facial detecti
 • View attendance report of self <br>
 
 ## Face Detection
-- Dlib's HOG facial detector.
+Dlib's HOG facial detector.
 
 ## Facial Landmark Detection
-- Dlib's 68 point shape predictor
+Dlib's 68 point shape predictor
 
 ## Extraction of Facial Embeddings
-- face_recognition by Adam Geitgey
+face_recognition by Adam Geitgey
 
 ## Classification of Unknown Embedding 
-- using a Linear SVM (scikit-learn)
+using a Linear SVM (scikit-learn)
 
 ## Documentation 📰
 [This](https://github.com/nevilparmar11/Attendance-Management-System-Using-Face-Recognition/tree/main/Documentation) folder contains all the related documents with UML Diagrams. 
